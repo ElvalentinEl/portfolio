@@ -1,0 +1,39 @@
+main{
+    display: flex;
+    justify-content : flex-start;
+}
+
+#titre{
+    color: #2c567a;
+
+}
+
+#rs {
+    background-color: red;
+    align-items: center;
+    display: flex;
+    flex: 1;
+    line-height: 10ch;
+}
+
+
+section{
+    background-color: green;
+}
+
+
+
+h2{
+    
+    color: #0072C7;
+}
+
+.mini_titre {
+    color: #0070C0;
+    text-decoration: underline #0070C0;
+    
+
+    
+}
+
+    
