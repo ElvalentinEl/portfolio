@@ -63,7 +63,7 @@ img {
 	max-width: 20%;
 	height: auto;
 	display: block;
-	margin-right: 1em auto;
+	margin-right: 1em  ;
 }
 
 h2 {
@@ -84,7 +84,7 @@ float: left ;
 }
 
 #portfolio{
-	margin-top: 25em;
+	margin-top: 30em;
 }
 
 #site{
